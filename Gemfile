@@ -37,6 +37,7 @@ group :test do
   # gem 'libnotify', '0.7.2'
   gem 'guard-spork', '0.3.2'
   gem 'spork', '0.9.0'
+  gem 'factory_girl_rails', '1.4.0'
 end
 
 # To use ActiveModel has_secure_password
